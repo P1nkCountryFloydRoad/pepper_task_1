@@ -10,6 +10,8 @@
     </Dialogs>
     <Resources>
         <File name="test" src="behavior_1/test.pmt" />
+        <File name="test" src="pmt/test.pmt" />
+        <File name="camera1" src="behavior_1/camera1.ogg" />
     </Resources>
     <Topics>
         <Topic name="astronaut_mnc" src="astronaut/astronaut_mnc.top" topicName="astronaut" language="zh_CN" />
